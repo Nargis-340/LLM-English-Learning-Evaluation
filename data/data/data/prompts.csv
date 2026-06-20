@@ -1,0 +1,31 @@
+id	level	task_type	prompt													
+1	A2	grammar	Correct this sentence and explain the mistake: Yesterday I go to school.													
+2	A2	grammar	Correct this sentence and explain the mistake: She have two brothers.													
+3	A2	grammar	Correct this sentence and explain the mistake: I am study English every day.													
+4	A2	grammar	Correct this sentence and explain the mistake: There is many students in the class.													
+5	B1	grammar	Correct this sentence and explain the mistake: Although I was tired, but I continued studying.													
+6	B1	grammar	Correct this sentence and explain the mistake: I have visited Kabul last year.													
+7	B1	grammar	Correct this sentence and explain the mistake: She suggested me to apply for the scholarship.													
+8	B2	grammar	Correct this sentence and explain the mistake: The number of students are increasing every year.													
+9	B2	grammar	Correct this sentence and explain the mistake: If I would have more time, I would improve the essay.													
+10	B2	grammar	Correct this sentence and explain the mistake: This research aims to understanding how students learn online.													
+11	A2	essay_feedback	Give simple feedback on this short paragraph for an A2 English learner: My name is Sara. I like study English. English is important for my future. I want be doctor.													
+12	A2	essay_feedback	Give simple feedback on this short paragraph for an A2 English learner: Yesterday I went to market with my sister. We buy fruits and come back home. I was happy.													
+13	A2	essay_feedback	Give simple feedback on this short paragraph for an A2 English learner: My school is good. I have many friend. My teacher help me learn new words.													
+14	B1	essay_feedback	Give feedback on this paragraph for a B1 English learner: Many students prefer online education because it is flexible. However, some students face internet problems and cannot join classes regularly.													
+15	B1	essay_feedback	Give feedback on this paragraph for a B1 English learner: I believe girls education is important because it helps families and communities. When girls study, they can support themselves and others.													
+16	B1	essay_feedback	Give feedback on this paragraph for a B1 English learner: Social media has many advantages, but it also causes distraction. Students should learn how to use it carefully.													
+17	B2	essay_feedback	Give detailed feedback on this paragraph for a B2 English learner: Online education can expand access for students in conflict-affected regions, but its success depends on digital access, learner motivation, and social support.													
+18	B2	essay_feedback	Give detailed feedback on this paragraph for a B2 English learner: Leadership is not only about authority; it is also about responsibility, listening, and creating opportunities for others.													
+19	B2	essay_feedback	Give detailed feedback on this paragraph for a B2 English learner: Artificial intelligence may transform education, but it should be evaluated carefully before being used as a replacement for human teachers.													
+20	B2	essay_feedback	Give feedback on coherence, grammar, and vocabulary in this paragraph: Climate change affects water security in many regions. Communities need early warning systems to recognize risks before they become disasters.													
+21	A2	explanation	Explain the present perfect tense to an A2 English learner using simple language and examples.													
+22	A2	explanation	Explain the difference between 'much' and 'many' to an A2 English learner.													
+23	A2	explanation	Explain what a noun is to an A2 English learner.													
+24	B1	explanation	Explain the difference between past simple and present perfect to a B1 English learner.													
+25	B1	explanation	Explain how to write a clear paragraph to a B1 English learner.													
+26	B1	explanation	Explain conditional sentences type 1 and type 2 to a B1 English learner.													
+27	B2	explanation	Explain how to write an argumentative essay introduction to a B2 English learner.													
+28	B2	explanation	Explain the difference between correlation and causation to a B2 English learner.													
+29	B2	explanation	Explain probability in simple terms for a B2 English learner preparing for data science.													
+30	B2	explanation	Explain what bias in artificial intelligence means for a B2 English learner.													
